@@ -1,0 +1,4 @@
+django-nose
+PyHamcrest==1.7.1
+doublex==1.6.1
+mock==1.0.1

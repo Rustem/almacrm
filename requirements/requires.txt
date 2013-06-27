@@ -1,0 +1,37 @@
+blinker==1.2
+booby==0.3.ger
+django-celery==3.0.11
+django-mailviews==0.5.2.1
+django-registration==0.8
+django-rosetta==0.6.8
+django-ses==0.4.1
+ipaddr==2.1.10
+python-memcached==1.48
+simplejson==3.0.7
+suds==0.4
+# amqp==1.0.6
+# required by: kombu
+# anyjson==0.3.3
+# required by: kombu
+# billiard==2.7.3.19
+# required by: celery
+# boto==2.8.0
+# required by: django-ses
+# celery==3.0.12
+# required by: django-celery
+# kombu==2.5.3
+# required by: celery
+# nose==1.3.0
+# required by: django-nose
+# pymongo==2.5
+# required by: mongoengine
+# python-dateutil==1.5
+# required by: celery
+# pytz==2012h
+# required by: django-celery
+# six==1.3.0
+# required by: django-configurations
+
+django-configurations==0.2.1
+#django-mongo-utils==0.1.0
+#django-mongotools==0.1dev

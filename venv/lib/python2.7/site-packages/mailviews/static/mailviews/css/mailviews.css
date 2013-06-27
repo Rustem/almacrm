@@ -1,0 +1,61 @@
+body {
+    padding-top: 60px;
+}
+
+section {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+/* List */
+
+#message-list table th,
+#message-list table td {
+    border: 0;
+}
+
+#message-list th {
+    width: 220px;
+}
+
+#message-list .description {
+    font-size: 12px;
+    color: #777;
+}
+
+/* Details */
+
+#html iframe,
+#html textarea {
+    border: 0;
+    height: 700px;
+    width: 100%;
+}
+
+#html textarea {
+    font-family: monospace;
+    padding: 0;
+}
+
+#headers th,
+#headers td {
+    border: 0;
+}
+
+#headers th {
+    width: 120px;
+}
+
+.errorlist {
+    margin-top: 20px;
+}
+
+.errorlist li {
+    color: #900;
+}
