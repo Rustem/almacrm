@@ -1,0 +1,10 @@
+venv
+*.egg-info
+dist
+*.pyc
+*.db
+os
+sys
+build
+*.zip
+media/images
