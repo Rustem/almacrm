@@ -143,7 +143,7 @@ TEMPLATE_DIRS = (
 )
 
 INSTALLED_APPS = (
-    'home',
+    'home', 'Product',
     'django.contrib.contenttypes',
     'django.contrib.messages',
     'django.contrib.staticfiles',
